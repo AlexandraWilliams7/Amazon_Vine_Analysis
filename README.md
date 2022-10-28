@@ -33,7 +33,7 @@ Here are the results from the anaylsis of the Vine reviews for the Home Improvem
     ![d2 6](https://user-images.githubusercontent.com/105830665/198698582-08e919f2-d4d9-4ea0-ae76-75ec81cae466.png)
 
 ### Summary
-After conducting the analysis, there doesn't appear to be a positive bias for reviews in the view program. The 5-star percentage for the Vine reviews and Non- Vine reviews were extremely close, 46.9924% and 46.9902% respectively. In order to further understand, the analysis should conduct several additional calculations like:
+After conducting the analysis, there does not appear to be a positive bias for reviews in the view program. The 5-star percentage for the Vine reviews and Non- Vine reviews were extremely close, 46.9924% and 46.9902% respectively. In order to further understand, the analysis should conduct several additional calculations like:
 - the percentage of 5-Star reviews aganist the total of reviews
 - the percentage of 5-star reviews found helpful
 - the percentage of 5-star Vine reviews found helpful vs the percentage Non-Vine reviews      found helpful.  
