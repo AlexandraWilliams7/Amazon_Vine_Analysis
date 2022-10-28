@@ -1,6 +1,6 @@
 # Amazon_Vine_Analysis
 ## Overview
-This anaylsis was done to research the vine reviews on Amazon for the Home Improvement department. The data was uploaded from the S3 bucket link. Once uploaded, several tables were created from the data. The tables will be used to find out how reviews were vine vs non-vine and the percentage. These calculations will help determine if there is a positive bias for reviews in the Vine program. 
+This anaylsis was done to research the vine reviews on Amazon for the Home Improvement department. The data was uploaded from the S3 bucket link. Once uploaded, several tables were created from the data. The tables were used to find out how many reviews were vine vs non-vine and the percentages of each. These calculations will help determine if there is a positive bias for reviews in the Vine program.  
 
 ### Purpose
 The purpose of the anaylsis was to use the following skills:
@@ -9,7 +9,7 @@ The purpose of the anaylsis was to use the following skills:
 3. S3 buckets
 
 ### Results
-Here are the results from the anaylsis of Vine reviews.
+Here are the results from the anaylsis of the Vine reviews for the Home Improvement department.
 
 - **How many Vine reviews and non-Vine reviews were there?**
     - There are 266 Home Improvement Vine Reviews
@@ -33,7 +33,7 @@ Here are the results from the anaylsis of Vine reviews.
     ![d2 6](https://user-images.githubusercontent.com/105830665/198698582-08e919f2-d4d9-4ea0-ae76-75ec81cae466.png)
 
 ### Summary
-After conducting the analysis, the doesn't appear to be a positive bias for reviews in the view program. The 5-star percentage for the Vine reviews and Non- Vine reviews were extremely close, 46.9924% and 46.9902% respectively. In order to further understand, the analysis should conduct several additional calculations like:
+After conducting the analysis, there doesn't appear to be a positive bias for reviews in the view program. The 5-star percentage for the Vine reviews and Non- Vine reviews were extremely close, 46.9924% and 46.9902% respectively. In order to further understand, the analysis should conduct several additional calculations like:
 - the percentage of 5-Star reviews aganist the total of reviews
 - the percentage of 5-star reviews found helpful
 - the percentage of 5-star Vine reviews found helpful vs the percentage Non-Vine reviews      found helpful.  
